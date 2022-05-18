@@ -1,0 +1,1 @@
+- 🧐 Desenvolvedor web focado em Back-End usando PHP Mysql.
