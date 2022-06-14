@@ -1,1 +1,2 @@
 - 🧐 Desenvolvedor web focado em Back-End usando PHP Mysql.
+- Principais habilidades: HTML, CSS, BOOTSTRAP, PHP e SQL.
