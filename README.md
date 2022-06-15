@@ -1,4 +1,4 @@
 - 🧐 Desenvolvedor web focado em Back-End usando PHP Mysql.
 - Tec. Redes de Computadores. 
-- Cursando - Grad. Desenvolvimento Web - UNOPAR.
+- Cursando - <strong>Grad. Desenvolvimento Web - UNOPAR</strong>.
 - Principais habilidades: HTML, CSS, BOOTSTRAP, PHP e SQL.
