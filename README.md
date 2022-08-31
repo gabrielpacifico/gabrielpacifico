@@ -1,4 +1,5 @@
-- 🧐 Desenvolvedor web focado em Back-End usando PHP Mysql.
+- 🧐 <strong> Back-End developer with PHP Mysql</strong>.
+- 📚 Estudando C# .NET...
 - <strong>Tec. Redes de Computadores.</strong> 
 - Cursando - <strong>Análise e Desenvolvimento de Sistemas.</strong>
 - Principais habilidades: <strong>HTML, CSS, BOOTSTRAP, PHP e SQL.</strong>
