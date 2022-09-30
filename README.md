@@ -1,13 +1,11 @@
-- 🧐 <strong> Back-End developer with PHP Mysql</strong>.
-- 📚 Estudando C# .NET...
+- <strong> Back-End Developer </strong>.
+- 📚 Estudando ASP .NET CORE...
 - <strong>Tec. Redes de Computadores.</strong> 
 - Cursando - <strong>Análise e Desenvolvimento de Sistemas.</strong>
 - Habilidades:
-<div style="display: flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="height: 50px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="height: 50px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="height: 50px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="height: 50px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" style="height: 50px;"/>
-</div>
 
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,cs,html,css,js,bootstrap)](https://skillicons.dev) 
+
+- Social:
+
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gabriel_pacific) 
