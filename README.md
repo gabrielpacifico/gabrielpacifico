@@ -4,7 +4,7 @@
 - Cursando - <strong>Análise e Desenvolvimento de Sistemas.</strong>
 - Habilidades:
 
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,cs,html,css,js,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,cs,dotnet,html,css,js,bootstrap)](https://skillicons.dev)
 
 - Social:
 
