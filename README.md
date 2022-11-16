@@ -9,3 +9,4 @@
 - Social:
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gabriel_pacific) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-pacifico/) 
