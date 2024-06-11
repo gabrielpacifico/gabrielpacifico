@@ -1,5 +1,4 @@
 - <strong> Back-End Developer </strong>.
-- 📚 Estudando ASP .NET CORE...
 - <strong>Tec. Redes de Computadores.</strong> 
 - Cursando - <strong>Análise e Desenvolvimento de Sistemas.</strong>
 - Habilidades:
