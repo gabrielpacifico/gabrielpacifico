@@ -1,6 +1,6 @@
-- <strong> .NET Developer </strong>.
-- <strong>Tec. Redes de Computadores.</strong> 
-- Cursando - <strong>Análise e Desenvolvimento de Sistemas.</strong>
+- <strong> .NET Developer </strong>
+- <strong>Superior em Análise e Desenvolvimento de Sistemas</strong>
+- <strong>Tec. Redes de Computadores</strong> 
 - Habilidades:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,bootstrap,php,mysql)](https://skillicons.dev)
