@@ -1,4 +1,4 @@
-- <strong> Back-End Developer </strong>.
+- <strong> .NET Developer </strong>.
 - <strong>Tec. Redes de Computadores.</strong> 
 - Cursando - <strong>Análise e Desenvolvimento de Sistemas.</strong>
 - Habilidades:
