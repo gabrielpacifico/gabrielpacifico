@@ -1,4 +1,4 @@
-- <strong> .NET Developer </strong>
+- <strong> Software Developer </strong>
 - <strong>Superior em Análise e Desenvolvimento de Sistemas</strong>
 - <strong>Tec. Redes de Computadores</strong> 
 - Habilidades:
